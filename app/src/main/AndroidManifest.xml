@@ -9,6 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.JugandoConGit3">
+        <activity
+            android:name=".SDMActivity"
+            android:label="@string/title_activity_s_d_m"
+            android:theme="@style/Theme.JugandoConGit3.NoActionBar"></activity>
+    </application>
+        android:theme="@style/Theme.JugandoConGit3">
     </application>
 
 </manifest>
