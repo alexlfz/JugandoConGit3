@@ -9,10 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.JugandoConGit3">
-        <activity
-            android:name=".ActividadAlex"
-            android:label="@string/title_activity_actividad_alex"
-            android:theme="@style/Theme.JugandoConGit3.NoActionBar"></activity>
     </application>
 
 </manifest>
